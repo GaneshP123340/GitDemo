@@ -1,0 +1,20 @@
+2024-12-19 15:07:02,163 :CRITICAL : Testdemo.test_logging :Critical issue
+2024-12-19 15:07:47,151 :WARNING : Testdemo.test_logging :Something is in warning mode
+2024-12-19 15:07:47,151 :ERROR : Testdemo.test_logging :A Major error has happend
+2024-12-19 15:07:47,151 :CRITICAL : Testdemo.test_logging :Critical issue
+2024-12-19 15:09:36,862 :DEBUG : Testdemo.test_logging :A debug statement is executed
+2024-12-19 15:09:36,863 :INFO : Testdemo.test_logging :Information statement
+2024-12-19 15:09:36,863 :DEBUG : Testdemo.test_logging :A debug statement is executed
+2024-12-19 15:09:36,863 :WARNING : Testdemo.test_logging :Something is in warning mode
+2024-12-19 15:09:36,863 :ERROR : Testdemo.test_logging :A Major error has happend
+2024-12-19 15:09:36,865 :CRITICAL : Testdemo.test_logging :Critical issue
+2024-12-19 15:26:06,797 :INFO : test_editProfile :Revanchist
+2024-12-19 15:26:06,797 :INFO : test_editProfile :yaar
+2024-12-19 15:45:36,344 :INFO : test_editProfile :Revanchist
+2024-12-19 15:45:36,345 :INFO : test_editProfile :yaar
+2024-12-19 15:45:36,363 :DEBUG : Testdemo.test_logging :A debug statement is executed
+2024-12-19 15:45:36,363 :INFO : Testdemo.test_logging :Information statement
+2024-12-19 15:45:36,363 :DEBUG : Testdemo.test_logging :A debug statement is executed
+2024-12-19 15:45:36,363 :WARNING : Testdemo.test_logging :Something is in warning mode
+2024-12-19 15:45:36,364 :ERROR : Testdemo.test_logging :A Major error has happened
+2024-12-19 15:45:36,364 :CRITICAL : Testdemo.test_logging :Critical issue
